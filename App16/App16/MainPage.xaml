@@ -6,9 +6,9 @@
 
     <StackLayout>
         <!-- Place new controls here -->
-        <local:GradientBorderButton BorderColor="Black" VerticalOptions="Start" HorizontalOptions="Start"
-                                    BorderRadius="10" BorderWidth="15" 
-                                    Text="ClickMe" WidthRequest="120" HeightRequest="80"/>
+        <local:GradientBorderButton BorderColor="Black" VerticalOptions="Center" HorizontalOptions="Start"
+                                    BorderRadius="8" BorderWidth="5" 
+                                    Text="ClickMe" WidthRequest="110" HeightRequest="70"/>
     </StackLayout>
 
 </ContentPage>
